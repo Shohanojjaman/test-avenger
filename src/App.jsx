@@ -1,5 +1,13 @@
+import Home from './components/home/Home';
+import './index.css';
+
 function App() {
-  return <></>;
+
+  return (
+    <>
+      <Home></Home>
+    </>
+  );
 }
 
 export default App;
